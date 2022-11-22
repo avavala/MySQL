@@ -1,5 +1,5 @@
 # MySQL for Data Analytics and BI
-#### Udemy online Course created by: [365 Careers](https://www.udemy.com/user/365careers/)
+#### Udemy online course created by: [365 Careers](https://www.udemy.com/user/365careers/)
 
 Repository containing the exercises of the MySQL for Data Analytics and BI course.
 All the SQL queries have been written in MySQL Workbench
