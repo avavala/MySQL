@@ -14,3 +14,6 @@ All the SQL queries have been written in MySQL Workbench
 - Handle SQL joins
 - Merge coding skills and business acumen to solve complex analytical problems
 
+
+![alt text](https://udemy-certificate.s3.amazonaws.com/image/UC-65c324dc-d15c-494b-b8a3-91e143c8eac2.jpg)
+
